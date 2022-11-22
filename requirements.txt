@@ -7,7 +7,7 @@ pip==22.3
 plotly==5.10.0
 requests==2.28.1
 requires.io==0.2.6
-streamlit==1.13.0
+streamlit==1.15.0
 streamlit-folium==0.6.15
 streamlit-lottie==0.0.3
 streamlit-option-menu==0.3.2
